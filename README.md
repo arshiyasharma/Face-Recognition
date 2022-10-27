@@ -1,4 +1,4 @@
-# face-recognition
+# Face Recognition
 Program to detect the person's face after taking 500 samples of the same
 -
 The program will take inputs(500 samples) for two people in the first file and will be able to detect their faces after training the module in the second file through the third.
